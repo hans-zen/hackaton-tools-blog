@@ -1,0 +1,9 @@
+{
+    "title"       : "Hackatoneando",
+    "description" : "This is my feed!",
+    "hostname"    : "http://localhost:3000",
+    "copyright"   : "Copyright © 2013 Siedrix and Hans. Beerware",
+    "author": {
+        "name" : "Daniel"
+    }
+}
